@@ -1,0 +1,20 @@
+2020-04-27 20:25:28 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2
+2020-04-27 20:25:29 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [D:\sts\labone\target\classes\com\mycompany\app\Employee.class]
+2020-04-27 20:25:29 DEBUG XmlBeanDefinitionReader:395 - Loaded 7 bean definitions from class path resource [beans.xml]
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.beans.factory.config.PropertyPlaceholderConfigurer#0'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-27 20:25:29 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-27 20:37:02 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61e717c2
+2020-04-27 20:37:03 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [D:\sts\labone\target\classes\com\mycompany\app\Employee.class]
+2020-04-27 20:37:03 DEBUG XmlBeanDefinitionReader:395 - Loaded 7 bean definitions from class path resource [beans.xml]
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.beans.factory.config.PropertyPlaceholderConfigurer#0'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-27 20:37:03 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
